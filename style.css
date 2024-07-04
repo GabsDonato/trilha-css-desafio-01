@@ -1,0 +1,30 @@
+@import url('reset.css');
+
+body {
+background-color: black;
+
+}
+
+.banner h1 {
+    font-weight: 900 ;
+    background: -webkit-linear-gradient(#33a8db, #1472b7);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #33a8db;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 24px ;
+}
+
