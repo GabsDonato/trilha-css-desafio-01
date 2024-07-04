@@ -1,9 +1,6 @@
 @import url('reset.css');
 
-h1 {
-    font: 20px;
-    font-family: "Raleway", sans-serif;
-    height: auto;
-    width: 510px;
-    color: blue;
+body {
+background-color: black;
+
 }
